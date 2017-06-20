@@ -15,7 +15,7 @@ const mouse = {
 	x: window.innerWidth / 2,
 	y: 0 
 };
-
+//pas ok
 window.addEventListener("mousemove", function(event) {
 	mouse.x = event.clientX;
 	mouse.y = event.clientY;
