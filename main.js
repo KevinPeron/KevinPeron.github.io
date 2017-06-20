@@ -15,7 +15,11 @@ const mouse = {
 	x: window.innerWidth / 2,
 	y: 0 
 };
+<<<<<<< HEAD
 //ok2
+=======
+//pas ok
+>>>>>>> 0b8cdd80ae161e8f2eb93c2047df77eb4118d0b0
 window.addEventListener("mousemove", function(event) {
 	mouse.x = event.clientX;
 	mouse.y = event.clientY;
