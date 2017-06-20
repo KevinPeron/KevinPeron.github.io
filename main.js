@@ -3,7 +3,7 @@
 	// 1x - Create particles that animate randomly outwards with a time to live (ttl)
 	// 2x - Create what are known as 'explosion points', points that create a line that particles will emanate from
 	// 3x - Create function that takes 2 points as input and creates 10 explosion points at intervals along the line created between the two
-
+//change
 "use strict";
 const canvas = document.querySelector('canvas');
 const c = canvas.getContext('2d');
