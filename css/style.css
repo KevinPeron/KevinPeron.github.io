@@ -12,3 +12,7 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.gauche, .droite {
+	margin-bottom:30px;
+}
